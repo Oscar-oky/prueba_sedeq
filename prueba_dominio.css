@@ -1,0 +1,40 @@
+form {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-family: Arial;
+  }
+  input, button {
+    width: 93%;
+    padding: 10px;
+    margin-top: 5px;
+  }
+.footer-login {
+    background-color: #3b5998; /* Un azul oscuro similar al de la imagen */
+    color: rgb(166, 170, 178); /* Color del texto */
+    padding: 20px; /* Relleno interno para que el texto no esté pegado a los bordes */
+    text-align: center; /* Centra el texto horizontalmente */
+    width: 100%; /* Ocupa todo el ancho disponible */
+    position: absolute; /* Para posicionarlo en la parte inferior de la ventana */
+    bottom: 0; /* Asegura que esté pegado a la parte inferior */
+    left: 0; /* Asegura que esté pegado al lado izquierdo */
+}
+
+.text_center{
+  text-align: center;
+}
+
+.reset_password{
+  text-decoration: none;
+}
+
+
+
+.style_botton{
+  width: 25%;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
